@@ -36,4 +36,4 @@ A Python utility that scans directories and exports all filenames to a formatted
    ```
    or
    ```bash
-   python filename_extractor_advanced.py
+   python filename_extractor_-_advanced.py
